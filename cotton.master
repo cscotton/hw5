@@ -18,15 +18,17 @@
     <asp:Image class="hdr_img1" ID="Image1" runat="server" ImageUrl="~/logo/Dlogo.jpg" />
     </div>
     <div class="menu">
-    
+        
         <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1" Orientation="horizontal" StaticDisplayLevels="1" >
             <LevelMenuItemStyles>
                 <asp:MenuItemStyle CssClass="level1" /> 
                 <asp:MenuItemStyle CssClass="level2" />
                 <asp:MenuItemStyle CssClass="level3" />
             </LevelMenuItemStyles>
-        
+           
         </asp:Menu>
+         <asp:LoginStatus ID="LoginStatus1" runat="server">
+                </asp:LoginStatus>
     
         <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" showstartingnode="false" />
     
@@ -43,7 +45,7 @@
 </div>
 <div class="footer">
 
-footer text
+Chris Cotton
 
 </div>
         

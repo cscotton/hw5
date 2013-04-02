@@ -5,18 +5,18 @@
 	text-align: center;
 	padding-top:50px;
 	padding-bottom:50px;
-	border:3px dashed orange	}
+	border:3px dashed white	}
 body {
-	background-color:white;	}
+	background-color:orange;	}
 	
 .p {
-	background-color: orange;
+	background-color: white;
 	color: #191970;
 	height:750px;
 	text-align: center;
-	border-left:3px dashed #191970 ; 
-	border-right: 3px dashed #191970;
-	border-top: 3px dashed #191970;}
+	border-left:3px dashed navy ; 
+	border-right: 3px dashed navy;
+	border-top: 3px dashed white;}
 
 .footer{
 	background-color: #191970;
@@ -25,7 +25,7 @@ body {
 	text-align: center;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	border:3px dashed orange;}
+	border:3px dashed white;}
 	
 .menu {background-color: White; color: Navy; font-size: 20px;
        padding: 10px;border-right: 3px dashed navy; 
@@ -52,6 +52,8 @@ body {
     background-color: navy;
     font-family: Goudy Old Style;
     font-size: small; }
-  
+
+.hdr_img { margin:0; padding:0; border:0;}
 .hdr_img1 { width:50px; height:75px; float: right;  margin:0; padding:0; border:0;}
 .hdr_img2 { width:50px; height:75px; float: left;  margin:0; padding:0; border:0;}
+

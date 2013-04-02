@@ -9,16 +9,9 @@
         <siteMapNode url="~/admin/edit.aspx" title="Edit / Delete Item"  description="" />
       </siteMapNode>
 
-      <siteMapNode url="~/sales/default.aspx" title="Sales"  description="">
-        <siteMapNode url="~/sales/rent.aspx" title="Rent an Item"  description="" />
-        <siteMapNode url="~/sales/return.aspx" title="Return an Item"  description="" />
-      </siteMapNode>
-
-      <siteMapNode url="~/customer/default.aspx" title="Customer"  description="">
-        <siteMapNode url="~/customer/view.aspx" title="View Account"  description="" >
-          <siteMapNode url="~/customer/pay.aspx" title="Pay Late Fees"  description="" />
-        </siteMapNode>
-        <siteMapNode url="~/customer/reserve.aspx" title="Reserver an Item"  description="" />
+      <siteMapNode url="~/user/default.aspx" title="User"  description="">
+        <siteMapNode url="~/user/hr.aspx" title="HR Leaders"  description="" />
+        <siteMapNode url="~/user/rbi.aspx" title="RBI Leaders"  description="" />
       </siteMapNode>
 
       <siteMapNode url="~/search.aspx" title="Search"  description="" />
