@@ -1,0 +1,57 @@
+.header {
+	background-color: #191970;
+	color:orange;
+	font-size: 36px;
+	text-align: center;
+	padding-top:50px;
+	padding-bottom:50px;
+	border:3px dashed orange	}
+body {
+	background-color:white;	}
+	
+.p {
+	background-color: orange;
+	color: #191970;
+	height:750px;
+	text-align: center;
+	border-left:3px dashed #191970 ; 
+	border-right: 3px dashed #191970;
+	border-top: 3px dashed #191970;}
+
+.footer{
+	background-color: #191970;
+	color:orange;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border:3px dashed orange;}
+	
+.menu {background-color: White; color: Navy; font-size: 20px;
+       padding: 10px;border-right: 3px dashed navy; 
+       border-left: 3px dashed navy; }
+	
+.level1 
+{
+    color:orange;
+    background-color:navy;
+    font-variant: small-caps;
+    font-size: large;
+    font-family: Goudy Old Style;
+    font-weight: bold; }
+
+.level2 
+{
+    color: white;
+    background-color: navy;
+    font-family: Goudy Old Style; }
+    
+.level3 
+{
+    color: White;
+    background-color: navy;
+    font-family: Goudy Old Style;
+    font-size: small; }
+  
+.hdr_img1 { width:50px; height:75px; float: right;  margin:0; padding:0; border:0;}
+.hdr_img2 { width:50px; height:75px; float: left;  margin:0; padding:0; border:0;}
